@@ -1,0 +1,2 @@
+# badrulatok
+atokbadrul
